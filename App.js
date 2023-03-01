@@ -9,6 +9,7 @@ const courses = [
   { id: 'SDEV1024', name: 'React Native', description: 'Building native mobile apps with React.' },
   { id: 'SDEV1025', name: 'Database Systems', description: 'Design and implementation of database systems.' },
   { id: 'SDEV1026', name: 'Software Engineering', description: 'Methods and practices for software development projects.' },
+  { id: 'SDEV1027', name: 'Web Application Development', description: 'Design and development of web applications.' },
 ];
 
 const App = () => {
