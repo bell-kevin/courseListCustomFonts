@@ -1,5 +1,5 @@
 import React from 'react';
-import { View, StyleSheet, FlatList, StatusBar } from 'react-native';
+import { View, StyleSheet, FlatList, StatusBar, Text } from 'react-native';
 import CourseCard from './Card/CourseCard';
 import { useFonts } from 'expo-font';
 
@@ -28,6 +28,7 @@ const App = () => {
   return (
     <View style={styles.container}>
       <StatusBar backgroundColor="#F5F5F5" />
+      <Text style={{ fontFamily: 'custom-font-1', fontSize: 25, textAlign: 'center' }}>Course Listing</Text>
       <FlatList
         data={courses}
         keyExtractor={(item) => item.id}
