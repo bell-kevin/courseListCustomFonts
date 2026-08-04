@@ -26,7 +26,7 @@ Take a screenshot like the example.
 
 Submission: Zip together the screenshot and the root folder of the project, and submit a single zipped file.
 
-Create one app. for both Android and iOS (Apple) using one computer alorithm for both apps. You'll need Visual Studio Code and Android Studio to get started:
+Create one app. for both Android and iOS (Apple) using one computer algorithm for both apps. You'll need Visual Studio Code and Android Studio to get started:
 
 https://code.visualstudio.com/download
 
@@ -61,7 +61,7 @@ A good practice for course maintenance is to keep the project in its full state 
 == We're Using GitHub Under Protest ==
 
 This project is currently hosted on GitHub.  This is not ideal; GitHub is a
-proprietary, trade-secret system that is not Free and Open Souce Software
+proprietary, trade-secret system that is not Free and Open Source Software
 (FOSS).  We are deeply concerned about using a proprietary system like GitHub
 to develop our FOSS project. I have a [website](https://bellKevin.me) where the
 project contributors are actively discussing how we can move away from GitHub
